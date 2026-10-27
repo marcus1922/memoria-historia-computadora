@@ -1,0 +1,8 @@
+MEMORIA · Historia de la computadora
+
+Abre index.html en tu navegador. El sitio funciona sin Internet.
+Seis páginas con cinco fotografías reales cada una, texto e imagen alternados, comparación y preguntas de repaso.
+Las fotografías se pueden ampliar y recorrer con los botones o las flechas del teclado. Escape cierra el visor.
+Autores, fuentes y licencias se incluyen junto a cada foto y en los créditos de cada página.
+Las fuentes tipográficas se distribuyen con sus licencias OFL en assets/fonts/.
+Para publicar, sube esta carpeta completa a un alojamiento estático.
